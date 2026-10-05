@@ -1,5 +1,5 @@
 # Smart Document Analyzer
-
+app:http://localhost:8501/
 A Python-based OCR application that extracts and analyzes information from document images using Tesseract OCR, OpenCV, and Streamlit.
 
 ## Features
